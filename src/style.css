@@ -62,7 +62,7 @@ body {
   width: 100%;
   max-width: 386px;
   height: 180px;
-  background: url(src/images/Logo_img.png) no-repeat center/ 100% 100%;
+  background: url(images/Logo_img.png) no-repeat center/ 100% 100%;
 }
 
 .vending-machine .beverage-list {
@@ -116,7 +116,7 @@ body {
   position: absolute;
   z-index: 10;
   inset: 0;
-  background: url(src/images/Sold-out.png) no-repeat center/60px 46px;
+  background: url(images/Sold-out.png) no-repeat center/60px 46px;
   background-position: center;
 }
 
